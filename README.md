@@ -1,5 +1,5 @@
 # backend-annuaire
-c'est le back-end de l'appliation de gestion du carnet d'addresse
+c'est le back-end de l'application de gestion du carnet d'addresse
 il est fait en nodejs express la base de donné est mongodb atlas
 nous utilisons le cluster gratuit offert après inscription
 pour sauver les données 
@@ -21,3 +21,5 @@ ensuite npm install et nodemon server.js
 
 Aucun bug n'est constaté actuellement au backend.
 mais il peut encore être amélioré.
+
+Cordialement
